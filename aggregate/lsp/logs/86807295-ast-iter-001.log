@@ -1,0 +1,7 @@
+[2026-10-15T09:04:58Z] === AST ITERATION 1 START | repo=simonw/strip-tags sha=86807295 ===
+[2026-10-15T09:04:58Z] [iter=1] PHASE START: ast repo=simonw/strip-tags sha=86807295
+[2026-10-15T09:04:58Z] [iter=1] Building AST aggregate chunks
+[2026-10-15T09:04:59Z] [iter=1] AST chunks built count=1 triples=17931
+[2026-10-15T09:04:59Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/868072957a9502a741b1ca947a992a988f58dc2e/.complete
+[2026-10-15T09:04:59Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-15T09:04:59Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
