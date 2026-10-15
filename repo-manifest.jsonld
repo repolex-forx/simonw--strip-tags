@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/strip-tags/commit/868072957a9502a741b1ca947a992a988f58dc2e",
       "git:hexsha": "868072957a9502a741b1ca947a992a988f58dc2e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.6"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.6",
+      "repolex:parsedAt": "2026-10-15T09:05:56.610745+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/strip-tags/commit/3710cd09f717daf857c78cb6b6f0ba690dbfc9aa",
